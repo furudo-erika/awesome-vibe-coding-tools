@@ -1,9 +1,8 @@
 # Awesome Vibe Coding Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppje9-uQxESILqP-QFCV5Mt8-cC_mQ2bWRlX0Q4ALAGmMnICWuVsbqPXeN87tq2anq-k&usqp=CAU" alt="Awesome Vibe Coding Tools Logo" width="200"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppje9-uQxESILqP-QFCV5Mt8-cC_mQ2bWRlX0Q4ALAGmMnICWuVsbqPXeN87tq2anq-k&usqp=CAU" alt="Awesome Vibe Coding Tools Logo" width="800"/> 
   <br/>
-  <em>(You might want to create a cool logo for your repo!)</em>
 </p>
 
 > A curated list of awesome AI-powered coding tools that enhance the developer experience, boost productivity, and bring a new "vibe" to coding.
