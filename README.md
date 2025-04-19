@@ -1,7 +1,7 @@
 # Awesome Vibe Coding Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppje9-uQxESILqP-QFCV5Mt8-cC_mQ2bWRlX0Q4ALAGmMnICWuVsbqPXeN87tq2anq-k&usqp=CAU" alt="Awesome Vibe Coding Tools Logo" width="800"/> 
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*6BJBDke1f6qGN7fR" alt="Awesome Vibe Coding Tools Logo" width="800"/> 
   <br/>
 </p>
 
