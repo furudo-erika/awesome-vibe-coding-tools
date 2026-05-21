@@ -111,6 +111,7 @@ Bringing AI assistance directly into the command-line interface.
 *   **[Fig AI (Discontinued, Acquired by AWS)](https://fig.io/user-manual/ai)** - Fig originally offered AI features to translate natural language into shell commands within its terminal autocomplete tool. (Note: Fig was acquired by AWS and its future direction might change).
 *   **[Warp AI](https://www.warp.dev/warp-ai)** - Integrated AI features within the Warp terminal. Allows users to ask questions, debug terminal errors, or generate commands using natural language prompts.
 *   **[GitHub Copilot CLI](https://github.com/cli/cli/blob/trunk/docs/gh_copilot.md)** - Brings Copilot's capabilities to the terminal. Helps translate natural language into shell commands, explains commands, and assists with `gh` CLI commands.
+*   **[codex-profiles](https://github.com/Ducksss/codex-profiles)** - Small Bash helper for switching Codex CLI/Desktop accounts with isolated `CODEX_HOME` profiles.
 *   **[Shell Genie](https://github.com/dylanjcastillo/shell-genie)** - An open-source tool that allows you to interact with your terminal using natural language, leveraging LLMs to generate the appropriate commands.
 
 ## Specialized Platforms & Services
