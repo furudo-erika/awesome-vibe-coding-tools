@@ -104,6 +104,7 @@ Tools that use AI to automatically generate comments, docstrings, or more compre
 *   **[Mintlify Writer](https://writer.mintlify.com/)** - An AI-powered documentation writer. Helps generate documentation for code snippets, functions, or entire files, often integrated via IDE extensions. Aims to make maintaining documentation less tedious.
 *   **[Sweep AI](https://sweep.dev/)** - An AI junior developer that can handle small tasks described in GitHub issues, including writing documentation or comments for code changes it makes.
 *   **[CodePal](https://codepal.ai/)** - Offers various AI developer tools, including a function/code documenter that generates comments and docstrings.
+*   **[Wikivibe](https://wikivibe.ru/en/)** - Practical knowledge base for AI-assisted development with guides, a glossary, jobs, and a public MCP endpoint.
 *   **(Many Copilots)** - GitHub Copilot, Cursor, and others often have features to generate docstrings or comments for selected code blocks.
 
 ## Code Review & Quality
