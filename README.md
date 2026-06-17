@@ -141,6 +141,7 @@ AI tools focused specifically on generating front-end code (HTML, CSS, JavaScrip
 *   **[Builder.io Visual Copilot](https://www.builder.io/blog/visual-copilot)** - AI features within the Builder.io visual development platform that can generate UI designs and code from text prompts or import from tools like Figma, outputting clean code for various frameworks.
 *   **[Locofy.ai](https://www.locofy.ai/)** - Converts Figma designs into front-end code (React, Vue, HTML/CSS, etc.) using AI to optimize structure, components, and responsiveness. Aims to accelerate the design-to-code process.
 *   **[Galileo AI](https://www.usegalileo.ai/)** - Creates editable UI designs from text descriptions, leveraging AI to generate complex interfaces quickly. Can also generate illustrations and images for the UI.
+*   **[Roblox GUI Maker](https://robloxguimaker.dev/)** - Generates Roblox Studio GUI layouts and Lua starter code from text prompts for faster in-game UI prototyping.
 
 ## Database Interaction
 
