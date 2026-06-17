@@ -124,6 +124,7 @@ Bringing AI assistance directly into the command-line interface.
 *   **[Warp AI](https://www.warp.dev/warp-ai)** - Integrated AI features within the Warp terminal. Allows users to ask questions, debug terminal errors, or generate commands using natural language prompts.
 *   **[GitHub Copilot CLI](https://github.com/cli/cli/blob/trunk/docs/gh_copilot.md)** - Brings Copilot's capabilities to the terminal. Helps translate natural language into shell commands, explains commands, and assists with `gh` CLI commands.
 *   **[Shell Genie](https://github.com/dylanjcastillo/shell-genie)** - An open-source tool that allows you to interact with your terminal using natural language, leveraging LLMs to generate the appropriate commands.
+*   **[agenttrace](https://github.com/luoyuctl/agenttrace)** - Local TUI observability for AI coding-agent sessions, showing token usage, cost, tool failures, latency, anomalies, diffs, and CI evidence across tools like Gemini CLI, Claude Code, Codex CLI, and Aider.
 
 ## Specialized Platforms & Services
 
