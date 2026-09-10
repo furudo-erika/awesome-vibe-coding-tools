@@ -132,6 +132,7 @@ Broader platforms or cloud services that incorporate significant AI coding assis
 *   **[Google Cloud AI Platform (Vertex AI Codey APIs)](https://cloud.google.com/vertex-ai/docs/generative-ai/code/code-models-overview)** - Google Cloud offers foundation models (Codey APIs) specifically trained for code generation, completion, and chat, which developers can integrate into their own applications or workflows.
 *   **[Azure OpenAI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service)** - Allows developers to access powerful OpenAI models (like GPT-4) within the Azure ecosystem, enabling the creation of custom AI-powered developer tools and workflows with enterprise-grade security and compliance.
 *   **[Hugging Face](https://huggingface.co/models?pipeline_tag=text-generation&library=transformers&search=code)** - A major platform for AI models. Hosts numerous open-source code generation models (like CodeLlama, StarCoder) that can be used to build custom AI coding tools or run locally.
+*   **[VibeHacker](https://vibehacker.com)** - Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches.
 
 ## UI Generation
 
