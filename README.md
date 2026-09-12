@@ -72,6 +72,7 @@ Tools that operate outside the IDE or focus on generating larger code structures
 
 AI tools specifically designed to help developers understand complex code snippets, algorithms, or entire codebases.
 
+*   **[ContextStream](https://contextstream.io)** - Shared project context for Cursor, Claude Code, Codex, Grok via MCP (`https://mcp.contextstream.io/mcp`). OSS: [contextstream/mcp-server](https://github.com/contextstream/mcp-server). Intelligence isn’t the bottleneck. Context is.
 *   **[Sourcegraph Cody](https://sourcegraph.com/cody)** - Sourcegraph's AI coding assistant focused on code intelligence and understanding large codebases. Uses context from your entire codebase to answer questions, generate code, explain code blocks, identify code smells, and more. Integrates with Sourcegraph's code search platform.
 *   **[Adrenaline AI](https://useadrenaline.com/)** - Focuses on helping developers understand and debug codebases. Connects to your repository and allows you to ask questions, explore dependencies, and get AI-powered explanations.
 *   **[What The Diff](https://whatthediff.ai/)** - An AI-powered tool (often used as a GitHub Action) that explains changes in pull requests in plain language, making code reviews faster and easier to understand.
