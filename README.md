@@ -67,6 +67,7 @@ Tools that operate outside the IDE or focus on generating larger code structures
 *   **[AskCodi](https://www.askcodi.com/)** - Provides a suite of AI-powered tools for developers accessible via web and IDE extensions. Features include code generation, explanation, documentation, test creation, and more, supporting various programming languages.
 *   **[Mutable AI](https://mutable.ai/)** - Focuses on AI-accelerated software development, offering features like transforming code based on prompts, building tests, explaining code, and enhancing overall productivity. Aims to refactor and improve existing codebases using AI.
 *   **[Kodezi](https://kodezi.com/)** - An AI developer tool platform positioning itself as a grammar checker for code. Helps auto-debug, optimize, comment, and generate code, aiming to improve code quality and developer efficiency.
+*   **[Sillage](https://github.com/MarlBurroW/sillage)** - A self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs running on your own machine, replacing the terminal rather than the agent. Sessions outlive the client, with full-text search over every conversation, an IDE panel (file explorer, editor, diffs, terminal), a board the agents read through its own MCP server, and an installable PWA with push. Single Docker container.
 
 ## Code Explanation & Understanding
 
