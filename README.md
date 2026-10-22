@@ -115,6 +115,7 @@ AI assistants designed to participate in the code review process, identify poten
 *   **[SonarQube / SonarCloud with AI (Experimental)](https://www.sonarsource.com/blog/ai-powered-analysis-of-your-code-with-sonarqube/)** - SonarSource is integrating AI features into its static analysis tools to provide clearer explanations for issues and potentially suggest fixes.
 *   **[DeepSource](https://deepsource.io/)** - A static analysis platform that uses technology (including ML/AI) to detect bug risks, anti-patterns, performance issues, and security vulnerabilities in code repositories. Offers autofixes for some issues.
 *   **[What The Diff](https://whatthediff.ai/)** - As mentioned earlier, explains PR changes, which aids significantly in the review process.
+*   **[Orbi](https://orbi.build/?ref=dir-furudo)** - Open-source GitHub App and self-hostable engine ([source](https://github.com/orbi-build/orbi)). Label an Issue `ai-ready` and an agent implements it, opens a PR, gets an independent AI review, fixes findings, and merges only after review and CI pass.
 
 ## Terminal & Command Line
 
