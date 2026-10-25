@@ -92,6 +92,7 @@ AI applied to the often challenging task of finding and fixing bugs in code.
 
 Leveraging AI to generate unit tests, integration tests, or improve the overall testing process.
 
+*   **[Agent QA](https://github.com/vostride/agent-qa)** - Uses LLMs to run natural-language web, Android, and iOS tests, with execution memory, UI recovery, and MCP tools for coding agents. Source-available under FSL-1.1-ALv2.
 *   **[CodiumAI](https://www.codium.ai/)** - An AI-powered tool focused on generating meaningful tests (unit tests, integration tests, etc.) for your code. Analyzes your code and suggests relevant test cases to improve coverage and reliability. Integrates with popular IDEs.
 *   **[Diffblue Cover](https://www.diffblue.com/)** - An AI-for-code tool that automatically writes Java unit tests for entire applications, aiming to increase test coverage and catch regressions. Focused on enterprise Java environments.
 *   **[Testim AI](https://www.testim.io/)** - Uses AI to help create, execute, and maintain end-to-end UI tests, making them more stable and less prone to breaking from minor UI changes.
